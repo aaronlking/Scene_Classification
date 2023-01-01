@@ -1,0 +1,3 @@
+# Histogram-Equilization-and-Matching
+
+<p>This was the second assignment for CS479: Computer Vision at Sonoma State University. This assignment was made to compare the performance of two different feature and classifier combinations in the context of computer visions. The two combinations are as follows: Tiny Image Features combined with Nearest Neighbor Classifier and Bag of Sift Features combined with Nearest Neighbor Classifier. </p>
